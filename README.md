@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structure and dynamic programming.
 - 📫 How to reach me ...
 - Linkedin-https://www.linkedin.com/in/ayushi-tiwari-0375b6195/
-- My Resume/CV-https://leetcode.com/tayushi1610/
+-Leetcode-https://leetcode.com/tayushi1610/
 
 <!---
 1610ayushi/1610ayushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
