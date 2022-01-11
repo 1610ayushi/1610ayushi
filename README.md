@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ayushi Tiwari
+- <h1>👋 Hi, I’m Ayushi Tiwari</h1>
+- 
 - 👀 I’m interested in web development,Java coding ,UI/UX Designing and Graphic Designing
 - 🌱 I’m currently learning data structure and dynamic programming.
 - 📫 How to reach me ...
