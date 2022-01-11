@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @1610ayushi
-- 👀 I’m interested in web development,Java,UI/UX Designing and Graphic Designing
+- 👋 Hi, I’m Ayushi Tiwari
+- 👀 I’m interested in web development,Java coding ,UI/UX Designing and Graphic Designing
 - 🌱 I’m currently learning data structure and dynamic programming.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Linkedin-https://www.linkedin.com/in/ayushi-tiwari-0375b6195/
+- My Resume/CV-https://leetcode.com/tayushi1610/
 
 <!---
 1610ayushi/1610ayushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
