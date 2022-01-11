@@ -9,7 +9,7 @@
 <p>Achieve short- and long-term objectives with successful strategic planning and performance optimization skills.
  skilled at completing daily assignments and contributing to team success. Always willing to take on any task. Adapts quickly to new needs and policies.</p>
  
- <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="500px" height="500px" >
+ <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400px" height="300px" >
 <h3 style="font-family:verdana;">Languages and Tools:-</h3>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3nh7IqT"><img height="20" src="https://bit.ly/3nh7IqT" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3qePvfu"><img height="20" src="https://bit.ly/3qePvfu" style="max-width: 100%;"></a></code>
@@ -20,8 +20,16 @@
 </p>
 - 🌱 I’m currently learning data structure and dynamic programming.
 - <h3>📫 How to reach me ...</h3>
-- gmail:- tayushi1610@gmail.com
+- <B><I><U>G-MAIL:- tayushi1610@gmail.com</U></I></B>
+- <a href="https://leetcode.com/tayushi1610/" rel="nofollow">
+  <img align="left" alt="Ayushi's Leetcode" width="100px" height="50px" src="https://bit.ly/3Fld3Ui" style="max-width: 100%;">
+</a> 
+<a href="https://www.hackerrank.com/tayushi1610" rel="nofollow">
+  <img align="left" alt="Ayushi's Instagram" width="100px" height="50px" src="https://bit.ly/3tiur9N" style="max-width: 100%;">
+</a> 
+- 
 <hr>
+<img src="https://bit.ly/34GAF9s" width="400" height="250">
 
 <!---
 1610ayushi/1610ayushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
