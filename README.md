@@ -11,7 +11,7 @@
  skilled at completing daily assignments and contributing to team success. Always willing to take on any task. Adapts quickly to new needs and policies.</p>
  
  <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400px" height="300px" >
- [1610ayushi Repository’s Stats](https://github-readme-stats.vercel.app/api?username=1610ayushi&show_icons=true)
+
 <h3 style="font-family:verdana;">Languages and Tools:-</h3>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3nh7IqT"><img height="20" src="https://bit.ly/3nh7IqT" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3qePvfu"><img height="20" src="https://bit.ly/3qePvfu" style="max-width: 100%;"></a></code>
@@ -28,12 +28,11 @@
 </a> 
 <a href="https://www.hackerrank.com/tayushi1610" rel="nofollow">
   <img align="left" alt="Ayushi's Instagram" width="100px" height="50px" src="https://bit.ly/3tiur9N" style="max-width: 100%;">
-</a> 
-- 
+</a>
+</p>
 <hr>
-<img src="https://bit.ly/34GAF9s" width="400" height="250">
-
 <!---
 1610ayushi/1610ayushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=1610ayushi&show_icons=true)
