@@ -5,6 +5,7 @@
 <a href="https://instagram.com/m.e.h.f.i.l._?utm_medium=copy_link" rel="nofollow">
   <img align="left" alt="Ayushi's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" style="max-width: 100%;">
 </a>   <p>  👀 Connect with me</p>
+<img src="https://komarev.com/ghpvc/?username=1610ayushi"/>
 <p>Hello, I'm <a href="https://bit.ly/3tg7bJH" rel="nofollow">Ayushi Tiwari</a>, a passionate self-taught frontend web developer and UI Designer from india. Basically,I am 3rd year computer science engineering student from India.I am always enthusiastic and eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of development and designing . Motivated to learn, grow and excel in Industry</p>
 <p>Achieve short- and long-term objectives with successful strategic planning and performance optimization skills.
  skilled at completing daily assignments and contributing to team success. Always willing to take on any task. Adapts quickly to new needs and policies.</p>
