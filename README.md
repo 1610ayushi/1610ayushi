@@ -1,5 +1,5 @@
 <h1 dir="Hey" align="center"><a id="user-content-hey-there-" class="anchor" aria-hidden="true" href="#Hey-there-I-AM-AYUSHI"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hola ,My name is Ayushi Tiwari <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a></h1>
-<h3 align="center">Keen Leaner | Frontend Developer| Designer</h3>
+<h3 align="center">Keen Leaner | Frontend Developer| Designer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=1610ayushi&label=Profile%20views&color=0e75b6&style=flat" alt="1610ayushi" align="center"/> </p>
 <p>Hello, I'm <a href="https://bit.ly/3tg7bJH" rel="nofollow">Ayushi Tiwari</a>, a passionate self-taught frontend web developer and UI Designer from india. Basically,I am 3rd year computer science engineering student from India.I am always enthusiastic and eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of development and designing . Motivated to learn, grow and excel in Industry</p>
 <p>Achieve short- and long-term objectives with successful strategic planning and performance optimization skills.
  skilled at completing daily assignments and contributing to team success. Always willing to take on any task. Adapts quickly to new needs and policies.</p>
@@ -7,7 +7,7 @@
  <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400px" height="300px" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1610ayushi&label=Profile%20views&color=0e75b6&style=flat" alt="1610ayushi" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1610ayushi" alt="1610ayushi" /></a> </p>
 
