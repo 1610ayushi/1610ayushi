@@ -11,6 +11,7 @@
  skilled at completing daily assignments and contributing to team success. Always willing to take on any task. Adapts quickly to new needs and policies.</p>
  
  <img src="https://i.pinimg.com/originals/68/5d/85/685d8564f387235bbcec2dcc53d7cf06.gif" width="400px" height="300px" >
+ [1610ayushi Repository’s Stats](https://github-readme-stats.vercel.app/api?username=1610ayushi&show_icons=true)
 <h3 style="font-family:verdana;">Languages and Tools:-</h3>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3nh7IqT"><img height="20" src="https://bit.ly/3nh7IqT" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://bit.ly/3qePvfu"><img height="20" src="https://bit.ly/3qePvfu" style="max-width: 100%;"></a></code>
