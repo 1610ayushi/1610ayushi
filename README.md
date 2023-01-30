@@ -13,15 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayushi161810" target="blank"><img src="https://img.shields.io/twitter/follow/ayushi161810?logo=twitter&style=for-the-badge" alt="ayushi161810" /></a> </p>
 
-- 🌱 I’m currently learning **data structure, dynamic programming and Microsoft Azure**
+- 🌱 I’m currently learning **backend web development and Advanced DSA**
 
-- 📝 I regularly post on [https://instagram.com/m.e.h.f.i.l._?utm_medium=copy_link](https://instagram.com/m.e.h.f.i.l._?utm_medium=copy_link)
-
-- 💬 Ask me about **Designing,UI Development,Frontend Development**
+- 💬 Ask me about **DSA ,UI Development,WEB Development**
 
 - 📫 How to reach me **tayushi1610@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/3tg7bJH](https://bit.ly/3tg7bJH)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
