@@ -14,7 +14,7 @@ Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, B
 
 ## 🌐 Open Source Enthusiast
 
-🤝 Collaboration is key! I am an ardent advocate of open source contributions and have actively participated in initiatives like Girlscript Summer of Code and Hacktoberfest. My passion for teamwork drives me to continuously learn and improve.
+🤝 Collaboration is key! I am an ardent advocate of open-source contributions and have actively participated in initiatives like Girlscript Summer of Code and Hacktoberfest. My passion for teamwork drives me to continuously learn and improve.
 
 ## 🚀 Previous Internships
 
@@ -22,7 +22,7 @@ Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, B
 
 ## 💡 Technical Prowess
 
-💻 I am proficient in C++ and Java (certified from Hackerrank), with a track record of solving over 500 questions on platforms like LeetCode and Geeks for Geeks. My understanding extends to key concepts such as GitHub, Object-Oriented Programming, Operating Systems, Database Management Systems, and Data Structures and Algorithms. I take pride in being among the top 20 students at my institution on the GFG platform.
+💻 I am proficient in C++ and Java (certified by Hackerrank), with a track record of solving over 500 questions on platforms like LeetCode and Geeks for Geeks. My understanding extends to key concepts such as GitHub, Object-Oriented Programming, Operating Systems, Database Management Systems, and Data Structures and Algorithms. I take pride in being among the top 20 students at my institution on the GFG platform.
 
 ## ⚙️ Expertise
 
@@ -37,21 +37,11 @@ Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, B
 
 ## Skills Summary
 
-💻 Programming Languages:
-
-JAVA, JavaScript, C++, Python
-🧠 Concepts:
-
-Data Structures, Algorithms, OOP, DBMS, OS
-🛠 Tools:
-
-GitHub, MySQL, VS Code, Figma, Salesforce
-🚀 Technologies:
-
-HTML, CSS, Node.js, Express.js, MongoDB, React, Springboot, Pandas, Numpy, REST API
-🌟 Soft Skills:
-
-Leadership, Event Management, Problem Solving, Public Speaking, Networking
+💻 Programming Languages: JAVA, JavaScript, C++, Python
+🧠 Concepts: Data Structures, Algorithms, OOP, DBMS, OS
+🛠 Tools: GitHub, MySQL, VS Code, Figma, Salesforce
+🚀 Technologies: HTML, CSS, Node.js, Express.js, MongoDB, React, Springboot, Pandas, Numpy, REST API
+🌟 Soft Skills: Leadership, Event Management, Problem-Solving, Public Speaking, Networking
 
 ## 📬 Let's Connect!
 
