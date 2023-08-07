@@ -29,7 +29,7 @@ Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, B
 🛠️ I possess expertise in a diverse set of technologies including MERN Stack, RESTful Web Services, Springboot, Python, and Data Modeling. My holistic understanding of these tools empowers me to create comprehensive and efficient solutions.
 
 - Leetcode: [tayushi1610](https://leetcode.com/tayushi1610)
-- - GeeksforGeeks: [tayushi1610](https://auth.geeksforgeeks.org/user/tayushi1610/profile)
+- GeeksforGeeks: [tayushi1610](https://auth.geeksforgeeks.org/user/tayushi1610/profile)
 - FullStack Portfolio: [LINK](https://www.crio.do/learn/portfolio/full-stack/?name=Ayushi%20Tiwari)
 - Backend Portfolio :[LINK](https://www.crio.do/learn/portfolio/backend/?name=Ayushi%20Tiwari#skills)
 - QA SDET Portfolio: [LINK](https://www.crio.do/learn/portfolio/qa-masters/?name=Ayushi%20Tiwari)
