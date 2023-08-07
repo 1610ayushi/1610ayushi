@@ -1,6 +1,8 @@
 # Ayushi Tiwari - Software Developer and Open Source Enthusiast
 
-Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, currently pursuing B.Tech in Computer Science and Engineering from GGSIPU. I thrive on creating innovative solutions and contributing to the world of technology. Let me take you through my journey so far.
+Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, B.Tech graduate in Computer Science and Engineering from GGSIPU. I thrive on creating innovative solutions and contributing to the world of technology. Let me take you through my journey so far.
+- Email: [tayushi1610@gmail.com](mailto:tayushi1610@gmail.com)
+
 
 ## 🌟 Current Ventures
 
@@ -26,6 +28,32 @@ Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, c
 
 🛠️ I possess expertise in a diverse set of technologies including MERN Stack, RESTful Web Services, Springboot, Python, and Data Modeling. My holistic understanding of these tools empowers me to create comprehensive and efficient solutions.
 
+- Leetcode: [tayushi1610](https://leetcode.com/tayushi1610)
+- - GeeksforGeeks: [tayushi1610](https://auth.geeksforgeeks.org/user/tayushi1610/profile)
+- FullStack Portfolio: [LINK](https://www.crio.do/learn/portfolio/full-stack/?name=Ayushi%20Tiwari)
+- Backend Portfolio :[LINK](https://www.crio.do/learn/portfolio/backend/?name=Ayushi%20Tiwari#skills)
+- QA SDET Portfolio: [LINK](https://www.crio.do/learn/portfolio/qa-masters/?name=Ayushi%20Tiwari)
+- Salesforce Trailhead Profile: [Salesforce Trailhead](https://www.salesforce.com/trailblazer/ayushi1610)
+
+## Skills Summary
+
+💻 Programming Languages:
+
+JAVA, JavaScript, C++, Python
+🧠 Concepts:
+
+Data Structures, Algorithms, OOP, DBMS, OS
+🛠 Tools:
+
+GitHub, MySQL, VS Code, Figma, Salesforce
+🚀 Technologies:
+
+HTML, CSS, Node.js, Express.js, MongoDB, React, Springboot, Pandas, Numpy, REST API
+🌟 Soft Skills:
+
+Leadership, Event Management, Problem Solving, Public Speaking, Networking
+
 ## 📬 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayushi-tiwari/) to discuss potential collaborations, projects, or just to chat about the exciting world of software development. Let's embark on a journey of innovation together! 🚀
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayushi-tiwari/) to discuss potential collaborations, and projects, or just to chat about the exciting world of software development. Let's embark on a journey of innovation together! 🚀
+
