@@ -1,12 +1,8 @@
 # Ayushi Tiwari - Software Developer and Open Source Enthusiast
 
-Hey there! 👋 I'm Ayushi Tiwari, a passionate Software Developer from Delhi, a B.Tech graduate in Computer Science and Engineering from GGSIPU. I thrive on creating innovative solutions and contributing to the world of technology. Let me take you through my journey so far.
+Hey there! 👋 I'm Ayushi Tiwari, Associate Software Engineer at Red Hat.
+I thrive on creating innovative solutions and contributing to the world of technology. Let me take you through my journey so far.
 - Email: [tayushi1610@gmail.com](mailto:tayushi1610@gmail.com)
-
-
-## 🌟 Current Ventures
-
-👩‍💻 I am currently a Software Developer Intern at ICG Medical, a prestigious London-based MNC located in Gurugram. My role here involves tackling exciting challenges and contributing to cutting-edge projects.
 
 ## 🏆 Achievements
 
