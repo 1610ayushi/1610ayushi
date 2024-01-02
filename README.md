@@ -41,5 +41,5 @@ I thrive on creating innovative solutions and contributing to the world of techn
 
 ## 📬 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayushi-tiwari/) to discuss potential collaborations, and projects, or just to chat about the exciting world of software development. Let's embark on a journey of innovation together! 🚀
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayushi-tiwari16/) to discuss potential collaborations, and projects, or just to chat about the exciting world of software development. Let's embark on a journey of innovation together! 🚀
 
