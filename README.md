@@ -5,9 +5,7 @@ Hey there! 👋 I'm Ayushi Tiwari, Associate Software Engineer at [Red Hat](http
 
 
 - Leetcode: [tayushi1610](https://leetcode.com/tayushi1610)
-- GeeksforGeeks: [tayushi1610](https://auth.geeksforgeeks.org/user/tayushi1610/profile)
-- Portfolio: [LINK](https://www.crio.do/learn/portfolio/full-stack/?name=Ayushi%20Tiwari)
-  
+- Twitter: [ayushi161810](https://x.com/ayushi161810)
 ## 📬 Let's Connect!
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayushi-tiwari16/) to discuss potential collaborations, and projects, or just to chat about the exciting world of software development. Let's embark on a journey of innovation together! 🚀
