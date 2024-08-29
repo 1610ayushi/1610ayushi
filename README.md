@@ -1,12 +1,38 @@
-# Ayushi Tiwari - Software Developer and Open Source Enthusiast
+### Hi there, I'm Ayushi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hey there! 👋 I'm Ayushi Tiwari, Associate Software Engineer at [Red Hat](https://www.redhat.com/en).
-- Email: [tayushi1610@gmail.com](mailto:tayushi1610@gmail.com)
+---
+
+#### 🚀 About Me:
+
+I'm currently working as an **Associate Software Engineer at Red Hat**.  
+I have a passion for **AI, ML**, and **open-source technologies**.
+
+With **1+ years of industry experience**, I’ve contributed to various open-source projects, and I'm dedicated to mentoring aspiring engineers to develop skills in **AI, ML**, and **Linux**.
+
+---
+
+#### 🎤 Public Speaking:
+
+I regularly share insights on **open source**, **upskilling**, and **career growth** at colleges and meetups. I enjoy collaborating with the community to discuss innovations and trends in the tech industry.
+
+---
+
+#### 🛠️ Tech Stack:
+
+- **Languages:** Python, Java, JavaScript
+- **Technologies:** AI/ML, Linux, Docker, Git
+- **Frameworks:** Flask, React
+- **Tools:** VSCode, GitHub, Jupyter
+
+---
+
+#### 📫 Let's Connect:
+
+Feel free to connect with me for collaboration or discussions on open source, AI, and career growth!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayushitiwari16/)
+- 🌐 [Twitter](https://x.com/ayushi161810)
+- 📧 Reach me at: [tayushi1610@gmail.com]
 
 
-- Leetcode: [tayushi1610](https://leetcode.com/tayushi1610)
-- Twitter: [ayushi161810](https://x.com/ayushi161810)
-## 📬 Let's Connect!
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ayushi-tiwari16/) to discuss potential collaborations, and projects, or just to chat about the exciting world of software development. Let's embark on a journey of innovation together! 🚀
-
+This will display a waving hand animation in your GitHub README!
